@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Define aquí los nombres de tus imágenes
   const images = [
-    'img/milenkaccesoriosmejor.png',
-    'img/Milenkaccesoriouno.png',
-    'img/milenka_aviso.png'
+    'milenkaccesoriosmejor.png',
+    'Milenkaccesoriouno.png',
+    'milenka_aviso.png'
   ];
 
   let currentIndex = 0;
