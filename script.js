@@ -22,5 +22,5 @@ document.addEventListener("DOMContentLoaded", function () {
   showImage(currentIndex);
 
   // Cambiar cada 3 segundos
-  setInterval(nextImage, 3000);
+  setInterval(nextImage, 6000);
 });
